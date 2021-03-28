@@ -1,0 +1,7 @@
+{
+    "name": "raphaeldealmeida/disciplines",
+    "require": {
+        "team-reflex/discord-php": "^5.1",
+        "symfony/dom-crawler": "^5.2"
+    }
+}
